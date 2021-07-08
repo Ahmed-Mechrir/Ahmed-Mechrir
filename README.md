@@ -1,8 +1,28 @@
-### Hi there, I'am Driss Boumlik! 👋
-[![Twitter URL](https://img.shields.io/static/v1?color=1DA1F3&label=Twitter%20&logo=twitter&logoColor=white&style=for-the-badge&message=Follow)](https://twitter.com/AhmedMechrir)
-[![Instagram URL](https://img.shields.io/static/v1?color=C536A4&label=Instagram&logo=Instagram&logoColor=white&style=for-the-badge&message=follow)](https://www.instagram.com/ahmedmechrir)
-[![LinkedIn URL](https://img.shields.io/static/v1?color=0084B1&label=linkedin&logo=linkedin&logoColor=white&style=for-the-badge&message=Connect)](https://www.linkedin.com/in/ahmedmechrir)
-[![Facebook URL](https://img.shields.io/static/v1?color=3C5B9B&label=Facebook&logo=Facebook&logoColor=white&style=for-the-badge&message=Connect)](https://www.facebook.com/Ahmed.Mechrir)
+### Hi there, I'am Ahmed Mechrir! 👋
+[![Twitter URL](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/AhmedMechrir)
+[![Instagram URL](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ahmedmechrir)
+[![LinkedIn URL](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmedmechrir)
+[![Facebook URL](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/Ahmed.Mechrir)
+[![Reddit URL](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/14535615/ahmed-mechrir)
+[![WhatsApp URL](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.link/pxha04)
+[![Telegram URL](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://msng.link/o/?ahmedmechrir=tg)
+[![Gmail URL](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mechrir1ahmed@gmail.com)
+[![Top Langs](https://github-readme-stats.vercel.app/api?username={username}&theme=blue-green)](https://github.com/Ahmed-Mechrir)
+
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=Ahmed-Mechrir&show_icons=true)
+# Top 5 Badges That Will Take Your GitHub Repository to the Next Level
+## 1. GitHub Stats
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=Ahmed-Mechrir&show_icons=true)
+## 2. Most Used Languages
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmed-Mechrir&theme=blue-green)
+## 3. Contributors Badge
+![Your Repository's Stats](https://contrib.rocks/image?repo=Tanu-N-Prabhu/Python)
+## 4. Random Joke Generator
+![Jokes Card](https://readme-jokes.vercel.app/api)
+## 5. Profile View Counter
+![Profile View Counter](https://komarev.com/ghpvc/?username=Ahmed-Mechrir)
+### Repository View Counter - HITS
+![Hits](https://hitcounter.pythonanywhere.com/count/tag.svg?url=https://github.com/Tanu-N-Prabhu/Python)
 
 I 💻 code, 🌐 blog, 🎤 speak, ✍ write, 🔡 teach ... and other stuff usually not in the same order.
 
@@ -15,14 +35,11 @@ You can find me at [TeaCode.ma](https://teacode.ma) where I love sharing my know
 
 **NOTE**: *Top languages does not indicate my skill level or something like that, it's a github metric of which languages I have the most code on github.*
 
-<a href="https://github.com/drissboumlik/">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=drissboumlik&count_private=true&show_icons=true&hide_border=false" />
-</a><a href="https://github.com/drissboumlik/">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=drissboumlik&layout=compact&hide_border=false" />
-</a>
+
 
 <!--
-**DrissBoumlik/DrissBoumlik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Profile View Counter](https://komarev.com/ghpvc/?username=Ahmed-Mechrir)
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmed-Mechrir&theme=blue-green)
 
 Here are some ideas to get you started:
 
