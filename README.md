@@ -1,7 +1,8 @@
-<link href="style.css" rel="stylesheet"></link>
-![Tech-Shop-Facebook-Group-Cover](https://user-images.githubusercontent.com/65470738/124919024-055f1b80-dff6-11eb-93f0-cfe6a95f2473.jpg?thumbnail)
-### Hi there, I'am Ahmed Mechrir! 👋 ![Profile View Counter](https://komarev.com/ghpvc/?username=Ahmed-Mechrir)
-<p align="center">
+<div align="center">
+    <img src="https://user-images.githubusercontent.com/65470738/124919024-055f1b80-dff6-11eb-93f0-cfe6a95f2473.jpg?thumbnail" />
+    <h2 align="left" id="link">Hi there, I'am Ahmed Mechrir! 👋 <img src="https://komarev.com/ghpvc/?username=Ahmed-Mechrir" /></h2> <br>
+</div>
+<div align="center">
     <a href="https://twitter.com/AhmedMechrir">
       <img alt="Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
     </a>
@@ -20,13 +21,13 @@
     <a href="https://www.reddit.com/user/AhmedMechrir/">
       <img alt="Reddit" src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white" />
     </a>
-</p>
+</div>
+<br>
 
-> I'm from Morocco, Interested in working on Front-end 💻, API's, Databases and currently learning about mobile development 📱. I have a love/hate relationship with Programming 😃. Previously, I worked on some projects with my friend <a href="https://github.com/salem-med" id="link">Mohammed Salem</a> to solve problems of people.
+> #### I'm from Morocco, Interested in working on Front-end 💻, API's, Databases and currently learning about mobile development 📱. I have a love/hate relationship with Programming 😃. Previously, I worked on some projects with my friend <a href="https://github.com/salem-med">Mohammed Salem</a> to solve problems of people. <br>
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ahmed-Mechrir&theme=dark&show_icons=true)
-
 
 
 <hr/>
@@ -36,7 +37,6 @@
 [![Gmail URL](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ahmedmechrir@yahoo.com)
 
 ### You can find me at ☝️ where I love sharing my knowledge and experience, help beginner developers.
-
 
 <!--
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmed-Mechrir&theme=blue-green)
