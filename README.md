@@ -24,7 +24,7 @@
 </div>
 <br>
 
-> #### I'm from Morocco, Interested in working on Front-end 💻, API's, Databases and currently learning about mobile development 📱. I have a love/hate relationship with Programming 😃. Previously, I worked on some projects with my friend <a href="https://github.com/salem-med">Mohammed Salem</a> to solve problems of people. <br>
+> ### I'm from Morocco, Interested in working on Front-end 💻, API's, Databases and currently learning about mobile development 📱. I have a love/hate relationship with Programming 😃. Previously, I worked on some projects with my friend <a href="https://github.com/salem-med">Mohammed Salem</a> to solve problems of people. <br>
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ahmed-Mechrir&theme=dark&show_icons=true)
