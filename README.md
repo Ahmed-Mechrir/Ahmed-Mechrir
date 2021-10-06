@@ -1,7 +1,7 @@
 <div align="center">
-    <img src="https://user-images.githubusercontent.com/65470738/124919024-055f1b80-dff6-11eb-93f0-cfe6a95f2473.jpg?thumbnail" />
-    <h2 align="left" id="link">Hi there, I'am Ahmed Mechrir! 👋 <img src="https://komarev.com/ghpvc/?username=Ahmed-Mechrir" /></h2> <br>
+    <img src="https://user-images.githubusercontent.com/65470738/124919024-055f1b80-dff6-11eb-93f0-cfe6a95f2473.jpg?thumbnail"/>
 </div>
+
 <div align="center">
     <a href="https://twitter.com/AhmedMechrir">
       <img alt="Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
@@ -22,13 +22,20 @@
       <img alt="Reddit" src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white" />
     </a>
 </div>
-<br>
 
-> ### I'm from Morocco, Interested in working on Front-end 💻, API's, Databases and currently learning about mobile development 📱. I have a love/hate relationship with Programming 😃. Previously, I worked on some projects with my friend <a href="https://github.com/salem-med">Mohammed Salem</a> to solve problems of people. <br>
+<div align="left">
+   <br>
+  <a href="https://app.daily.dev/AhmedMechrir" target="_blank">
+    <img width="256" align="right" src="https://api.daily.dev/devcards/daaa720a4c49432d95ea4a8752390f6f.png?r=vmi"/>
+  </a>
 
+</div>
+
+## Hi there, I'am Ahmed Mechrir! 👋
+
+I'm from Morocco, Interested in working on Front-end 💻, API's, Databases and currently learning about mobile development 📱. I have a love/hate relationship with Programming 😃. Previously, I worked on some projects with my friend <a href="https://github.com/salem-med">Mohammed Salem</a> to solve problems of people.
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ahmed-Mechrir&theme=dark&show_icons=true)
-
 
 <hr/>
 
